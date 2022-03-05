@@ -1,0 +1,8 @@
+img {
+   object-fit: cover;
+   object-position: top;
+}
+
+p, li {
+   max-width: 500px;
+}
